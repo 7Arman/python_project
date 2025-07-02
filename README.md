@@ -19,9 +19,6 @@ This simple Python project helps visualize a monthly personal budget using a pie
 1. Install Python 3.x from [python.org](https://www.python.org/)
 2. Open your terminal and install the required libraries:
 
-   ### 📊 Example Output
-![Pie Chart](budget_chart.png)
-
 
 ```bash
 pip install pandas matplotlib
