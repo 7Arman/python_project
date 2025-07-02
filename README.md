@@ -21,3 +21,7 @@ This simple Python project helps visualize a monthly personal budget using a pie
 
 ```bash
 pip install pandas matplotlib
+
+### 📊 Example Output
+![Pie Chart](budget_chart.png)
+
